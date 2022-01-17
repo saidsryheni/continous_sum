@@ -1,0 +1,32 @@
+EXP     ExplicitTriples: 3109990.3500
+EXP     Facts: 423507.9000
+EXP     Conflicts: 10000.0000
+EXP     Sources: 1000.0000
+EXP     TotalTriples: 21538207.5000
+EXP     TP: 80770.3000
+EXP     FN: 1699.8000
+EXP     FP: 10617.8000
+EXP     TN: 330417.7000
+EXP            Error: 0.0734    Accuracy: 92.66%
+LOW_E   ExplicitTriples: 3114641.5500
+LOW_E   Facts: 423150.1000
+LOW_E   Conflicts: 10000.0000
+LOW_E   Sources: 1000.0000
+LOW_E   TotalTriples: 19541866.5500
+LOW_E   TP: 76685.4500
+LOW_E   FN: 5618.7500
+LOW_E   FP: 17259.5000
+LOW_E   TN: 323583.5000
+LOW_E          Error: 0.0963    Accuracy: 90.37%
+UNI     ExplicitTriples: 3116183.7500
+UNI     Facts: 425258.6000
+UNI     Conflicts: 10000.0000
+UNI     Sources: 1000.0000
+UNI     TotalTriples: 19107669.6500
+UNI     TP: 73964.3500
+UNI     FN: 8244.1500
+UNI     FP: 21051.4500
+UNI     TN: 321995.9000
+UNI            Error: 0.1126    Accuracy: 88.74%
+Algorithm Average Error:      0.0941
+Algorithm Average Accuracy:   90.59%
